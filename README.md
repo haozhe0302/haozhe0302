@@ -1,5 +1,5 @@
-### Hi there!👋
-### I am a new graduate UofT ECE student and looking for an entry SDE job in Toronto right now!
+### Welcome!👋
+### I am a UofT ECE graduate student, looking for an entry-level SDE job in 🇨🇦 Ontario right now!
 
 <!--
 **haozhe0302/haozhe0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
