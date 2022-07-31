@@ -46,6 +46,4 @@ Here are some ideas to get you started:
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="60" height="40"/>
 </p>
 
-![Haozhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=haozhe0302&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haozhe0302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Haozhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=haozhe0302&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haozhe0302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
