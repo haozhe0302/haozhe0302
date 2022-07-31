@@ -1,6 +1,10 @@
 ### Welcome!👋
 ### I am a UofT ECE graduate student looking for an entry SDE job in Toronto right now!
 
+Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/koutetsu_h2) | [Instagram](https://www.instagram.com/koutetsu_h2/) | [LinkedIn](https://www.linkedin.com/in/haozhe-wang-8b9539205/) | [Email](mailto:\haozhe.wang@outlook.com)
+
+Check out my résumé: [Resume](https://github.com/haozhe0302/MyResume/blob/main/Haozhe_resume.pdf)
+
 <!--
 **haozhe0302/haozhe0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
