@@ -1,7 +1,7 @@
 ### Welcome!👋
 ### ECE M.Eng student @ University of Toronto🌱 Seeking entry SDE roles right now!
 
-Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/koutetsu_h2) | [Instagram](https://www.instagram.com/koutetsu_h2/) | [LinkedIn](https://www.linkedin.com/in/haozhe-wang-8b9539205/) | [Email](mailto:\haozhe.wang@outlook.com)
+Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/koutetsu_h2) | [Instagram](https://www.instagram.com/koutetsu_h2/) | [LinkedIn](https://www.linkedin.com/in/haozhe-wang-8b9539205/) | [Email](mailto:\haozhe.wang.chn@outlook.com)
 
 Check out my résumé: [Resume](https://github.com/haozhe0302/MyResume/blob/main/Haozhe_resume.pdf)
 
