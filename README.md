@@ -1,5 +1,5 @@
 ### Welcome!👋
-### ECE M.Eng student @ University of Toronto🌱 Seeking entry SDE roles right now!
+### ECE M.Eng student @ University of Toronto🌱 Jr. SDE @ LawyerDoneDeal
 
 Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/koutetsu_h2) | [Instagram](https://www.instagram.com/koutetsu_h2/) | [LinkedIn](https://www.linkedin.com/in/haozhewang/) | [Email](mailto:\haozhe.wang.chn@outlook.com)
 
