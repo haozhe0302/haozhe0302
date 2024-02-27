@@ -1,9 +1,7 @@
 ### Welcome!👋
 ### M.Eng in ECE @ University of Toronto🌱 Jr. SDE @ LawyerDoneDeal
 
-Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/koutetsu_h2) | [Instagram](https://www.instagram.com/koutetsu_h2/) | [LinkedIn](https://www.linkedin.com/in/haozhewang/) | [Email](mailto:\haozhe.wang.chn@outlook.com)
-
-Check out my résumé: [Resume](https://github.com/haozhe0302/MyResume/blob/main/Haozhe_resume.pdf)
+Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/tetsuya_hz) | [Instagram](https://www.instagram.com/tetsuya_hz/) | [LinkedIn](https://www.linkedin.com/in/haozhewang/) | [Email](mailto:\haozhe.wang.chn@outlook.com)
 
 <!--
 **haozhe0302/haozhe0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
