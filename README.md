@@ -1,5 +1,7 @@
 ### Welcome!👋
-### M.Eng in ECE @ University of Toronto🌱 Jr. SDE @ LawyerDoneDeal
+### M.Eng in ECE @ University of Toronto🌱 Software Developer @ LawyerDoneDeal
+
+Here's my [resume]((https://github.com/haozhe0302/MyResume)).
 
 Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/tetsuya_hz) | [Instagram](https://www.instagram.com/tetsuya_hz/) | [LinkedIn](https://www.linkedin.com/in/haozhewang/) | [Email](mailto:\haozhe.wang.chn@outlook.com)
 
