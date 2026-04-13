@@ -1,9 +1,12 @@
-### Welcome!👋
-### M.Eng in ECE @ University of Toronto🌱 Software Developer @ LawyerDoneDeal
+# Hi, I'm Haozhe Wang 👋
 
-Here's my [resume](https://github.com/haozhe0302/MyResume/blob/main/Resume_HaozheWang.pdf).
+## About Me
 
-Find me on: [GitHub](https://github.com/haozhe0302) | [Twitter](https://twitter.com/tetsuya_hz) | [Instagram](https://www.instagram.com/tetsuya_hz/) | [LinkedIn](https://www.linkedin.com/in/haozhewang/) | [Email](mailto:\haozhe.wang.chn@outlook.com)
+- 💼 Software Developer @ **LawyerDoneDeal**
+- 🎓 M.Eng. in ECE @ **University of Toronto**
+- 📈 Building **HQQQ**, a real-time ETF pricing platform with **C#/.NET, Kafka, Redis, PostgreSQL, Docker, and Kubernetes**
+- ⚙️ Interested in **Quantitative/Trading Dev, Backend Engineering, Data Pipelines, and Cloud Infrastructure**
+- 📍 Based in **Toronto, Ontario, Canada**
 
 <!--
 **haozhe0302/haozhe0302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,26 +23,44 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Languages:
+## Tech Stack
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/javascript/javascript-vertical.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" alt="csharp" width="40" height="40"/>
-</p>
+### Languages
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-### Tools & Frameworks:
+### Application / Frameworks
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="node" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="flask" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="azure" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="60" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" alt="tensorflow" width="60" height="40"/>
-</p>
+### Data / Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 
-![Haozhe's GitHub stats](https://github-readme-stats.vercel.app/api?username=haozhe0302&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=haozhe0302&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### Infrastructure / Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+## Resume & Links
+
+- 📄 [Resume](https://github.com/haozhe0302/MyResume/blob/main/Resume_HaozheWang.pdf)
+- 💼 [LinkedIn](https://www.linkedin.com/in/haozhewang/)
+- 📫 [Email](mailto:haozhe.wang.chn@outlook.com)
+- 💻 [GitHub](https://github.com/haozhe0302)
+- 🏅 [AWS Certified Cloud Practitioner](https://www.credly.com/badges/149da48d-d446-42d6-b477-f037649cf2d0)
+- 🏅 [Canadian Securities Course (CSC)](https://www.credly.com/badges/871a6c5d-ef9d-4938-b267-f9705abdfa52)
