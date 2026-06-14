@@ -2,8 +2,8 @@
 
 ## About Me
 
-- 💼 Software Developer @ **LawyerDoneDeal**
-- 🎓 M.Eng. in ECE @ **University of Toronto**
+- 💼 Quantitative Developer at **Scotiabank - Global Banking and Markets**
+- 🎓 M.Eng. in ECE at **University of Toronto**
 - 📈 Building **HQQQ**, a real-time ETF pricing platform with **C#/.NET, Kafka, Redis, PostgreSQL, Docker, and Kubernetes**
 - ⚙️ Interested in **Quantitative/Trading Dev, Backend Engineering, Data Pipelines, and Cloud Infrastructure**
 - 📍 Based in **Toronto, Ontario, Canada**
